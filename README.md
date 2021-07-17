@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bts-zafar&show_icons=true&locale=en" alt="bts-zafar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bts-zafar&" alt="bts-zafar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bts-zafar&" alt="bts-zafar" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/switch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="switch" /></a></p><br><br>
